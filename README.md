@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github.com/rmontero/rmontero/blob/main/header.png" alt="Rob's GitHub README header image">
+<a href="https://rob.cr/" target="_blank"><img src="https://github.com/rmontero/rmontero/blob/main/header.png" alt="Rob's GitHub README header image"></a>
 <p><a href="https://www.x.com/rmonteroo/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/rmontero/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/rmonteroo/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 
 - 🔭 I’m currently working on projects that leverage PHP, Drupal 7, 8, 9, 10+, React.js, Node, Vue.js, Symfony, WordPress, Shopify, HTML, CSS, JavaScript, TypeScript, SQL, MySQL, MariaDB, Redis, Memcached, Elasticsearch, Solr, Apache, Nginx, Docker, Kubernetes, AWS, Jenkins, GitLab, GitHub, Bitbucket, Jira, Figma, Photoshop, Illustrator (are you still reading this?)
